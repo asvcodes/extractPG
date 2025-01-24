@@ -3,10 +3,12 @@ import fitz  # PyMuPDF
 import re
 import io
 
-st.title("extractPGs by ASV")
+st.title("extractPGs")
 
 # App description
 st.markdown("""
+[by ASV](https://www.linkedin.com/in/adarshsvimal/)
+       
 This app allows you to:
 1. Upload a PDF file
 2. Search for text using either simple text or regular expressions
