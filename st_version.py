@@ -7,7 +7,7 @@ st.title("extractPGs")
 
 # App description
 st.markdown("""
-[by ASV](https://www.linkedin.com/in/adarshsvimal/)
+[***by ASV***](https://www.linkedin.com/in/adarshsvimal/)
        
 This app allows you to:
 1. Upload a PDF file
