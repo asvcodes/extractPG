@@ -3,16 +3,7 @@ import fitz  # PyMuPDF
 import re
 import io
 
-st.title("extractPGs")
-
-# App description
-st.markdown("""
-👋 **Welcome to ExtractPGs!**  
-<div style="text-align: center;"><i>by Adarsh S. Vimal</i></div>
-
-🔗 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshsvimal)
-""", unsafe_allow_html=True)
+st.title("Welcome to extractPGs!")
 
 # App description
 st.markdown("""
