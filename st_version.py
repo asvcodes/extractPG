@@ -3,7 +3,7 @@ import fitz  # PyMuPDF
 import re
 import io
 
-st.title("extractPGs")
+st.title("extractPGs by ASV")
 
 # App description
 st.markdown("""
