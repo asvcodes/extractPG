@@ -6,15 +6,12 @@ import io
 st.title("extractPGs")
 
 # App description
-st.markdown("""
-[***by ASV***](https://www.linkedin.com/in/adarshsvimal/)
-       
-This app allows you to:
+st.markdown(""" This app allows you to:
 1. Upload a PDF file
 2. Search for text using either simple text or regular expressions
 3. Choose case-sensitive or insensitive search
 4. Extract all pages containing matches
-5. Handle large PDFs efficiently
+5. Handle large PDFs efficiently 
 """)
 
 # Sidebar inputs
