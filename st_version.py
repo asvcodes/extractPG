@@ -6,7 +6,6 @@ import io
 st.title("extractPGs")
 
 # App description
- Personal greeting and social links
 st.markdown("""
 👋 **Welcome to ExtractPGs!**  
 <div style="text-align: center;"><i>by Adarsh S. Vimal</i></div>
