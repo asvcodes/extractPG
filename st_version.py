@@ -6,12 +6,23 @@ import io
 st.title("extractPGs")
 
 # App description
-st.markdown(""" This app allows you to:
-1. Upload a PDF file
-2. Search for text using either simple text or regular expressions
-3. Choose case-sensitive or insensitive search
-4. Extract all pages containing matches
-5. Handle large PDFs efficiently 
+ Personal greeting and social links
+st.markdown("""
+👋 **Welcome to ExtractPGs!**  
+<div style="text-align: center;"><i>by Adarsh S. Vimal</i></div>
+
+🔗 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshsvimal)
+""", unsafe_allow_html=True)
+
+# App description
+st.markdown("""
+## 🚀 Features:
+1. Upload PDF files of any size (including 10,000+ pages)
+2. Advanced search with regular expression support
+3. Case-sensitive/insensitive matching
+4. Direct download of extracted pages
+5. Real-time progress tracking
 """)
 
 # Sidebar inputs
